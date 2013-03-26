@@ -10,7 +10,6 @@ Current leiningen dependency:
 ```clojure
 
 [gzip-util "0.1.0-SNAPSHOT"]
-
 ```
 
 ```clojure
